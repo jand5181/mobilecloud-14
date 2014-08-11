@@ -1,3 +1,4 @@
+## Modified by JJM
 ## Running the VideoServlet
 
 To run the servlet:
